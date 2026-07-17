@@ -57,6 +57,15 @@ choisie. Jouez avec modération.
 ```bash
 python app.py
 ```
+## Screenshot
+
+![Dashboard](screenshot1.png)
+
+---
+
+![Dashboard](screenshot2.png)
+
+
 
 Aucune dépendance externe : uniquement la bibliothèque standard de Python
 (`tkinter`, présent par défaut sur la plupart des installations Python sur
